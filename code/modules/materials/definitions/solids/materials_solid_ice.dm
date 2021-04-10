@@ -14,6 +14,7 @@
 	sparse_material_weight = 2
 	ore_result_amount = 7
 	rich_material_weight = 37
+	taste_description = "ice"
 	heating_point = T20C + 10 // Above room temperature, to avoid drinks melting.
 	stack_type = /obj/item/stack/material/generic/brick
 
